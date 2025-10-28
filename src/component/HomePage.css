@@ -57,6 +57,19 @@
 .first-section .header nav a:hover::after {
     width: 100%;
 }
+.first-section button{
+    background-color: var(--main-color);
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    padding: 10px 20px;
+}
+.first-section button a{
+    text-decoration: none;
+    font-size: 1rem;
+    color: #000;
+}
+
 @media (max-width: 760px) {
     .first-section .header {
         flex-direction: column;
@@ -80,6 +93,14 @@
         font-size: .6rem;
         padding: 8px 10px;
     }
+    .first-section button{
+
+    padding: 2px 4px;
+}
+.first-section button a{
+    text-decoration: none;
+    font-size: 1rem;
+}
 }
 /* end header  */
 

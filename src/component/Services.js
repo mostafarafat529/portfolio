@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaReact, FaCode, FaFileCode, FaLaptopCode, FaNodeJs, FaDatabase } from 'react-icons/fa';
+import { FaReact, FaCode, FaFileCode, FaLaptopCode, FaNodeJs } from 'react-icons/fa';
 import { SiExpress, SiMongodb } from 'react-icons/si';
 import { MdApi } from 'react-icons/md';
 import { motion } from 'framer-motion';

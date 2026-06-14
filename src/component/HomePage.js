@@ -7,6 +7,7 @@ import Skills from "./Skills";
 import Contact from "./Contact";
 import Footer from "./Footer";
 import Projects from "./Projects";
+import Courses from "./Courses";
 
 
 
@@ -21,6 +22,7 @@ return (
 <About/>
 <Services/>
 <Skills/>
+<Courses/>
 <Projects/>
 <Contact/>
 <Footer/>
